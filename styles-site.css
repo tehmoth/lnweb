@@ -3,6 +3,7 @@
 		background-color:  black;
 		}
 	.asset-body 			{ color: #CFFC00; text-decoration: none; }
+	.asset-meta 			{ color: white; text-decoration: none; }
 	A 			{ color: #CFFC00; text-decoration: none; }
 	A:link		{ color: #CFFC00; text-decoration: none; }
 	A:visited	{ color: #CFFC00; text-decoration: none; }
