@@ -9,6 +9,7 @@
 	A:visited	{ color: #CFFC00; text-decoration: none; }
 	A:active	{ color: #E1E1E1; text-decoration: underline; }
 	A:hover		{ color: #E1E1E1; text-decoration: underline;  }
+	.footer-content { display: none; }
 
 	img.preview	{ border: 2px solid #CFFC00; }
 	a:target img.preview { border: 2px solid red; }
